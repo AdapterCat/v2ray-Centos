@@ -2,4 +2,4 @@
 
 输入以下命令，回车执行（shift+insert可粘贴）
 
-bash <(curl -s -L https://git.io/v2ray-setup.sh)
+bash <(curl -s -L https://github.com/AdapterCat/v2ray-Centos/blob/master/v2ray-setup.sh)
