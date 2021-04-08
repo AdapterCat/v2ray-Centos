@@ -5,5 +5,5 @@ echo "1
 
 
 
-" | bash <(curl -s -L https://git.io/v2rayinstall.sh)
+" | bash <(curl -s -L https://github.com/AdapterCat/v2ray-Centos/blob/master/v2rayinstall.sh)
 v2ray url
